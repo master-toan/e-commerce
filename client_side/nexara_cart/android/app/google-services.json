@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118575930407",
+    "project_id": "e-commerce-d5b89",
+    "storage_bucket": "e-commerce-d5b89.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118575930407:android:72ca8ae17f5252b8c6c202",
+        "android_client_info": {
+          "package_name": "com.example.nexara_cart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5OFkR9maxuHCo51PMZfuMDVu8UlqBzeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
